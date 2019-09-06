@@ -1,6 +1,6 @@
 {
   "name": "@etu/umi-plugin-test",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "description": "ooo",
   "authors": {
     "name": "handy",
@@ -32,7 +32,7 @@
     "src",
     "ui"
   ],
-  "license": "MIT",
+  "license": "ISC",
   "directories": {
     "example": "example",
     "lib": "lib"
