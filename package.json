@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "/test"
+    "url": "git@github.com:etu-front/umi-plugin-test.git"
   },
   "peerDependencies": {
     "antd": "4.x",
